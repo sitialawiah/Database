@@ -1,0 +1,4 @@
+node app.js
+npm init -y
+npm install --save sequelize
+node app.js	
